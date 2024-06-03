@@ -19,7 +19,7 @@ Open a _new_ terminal from the _root_ of your React Native project. Run the foll
 
 ```bash
 # Using Yarn
-yarn android
+yarn install
 ```
 
 Note: The project was developed using Yarn, if you use npm be aware of this.
