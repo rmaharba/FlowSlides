@@ -18,7 +18,6 @@ ANNOUNCEMENT_API_TOKEN=announcement-api-token
 Open a _new_ terminal from the _root_ of your React Native project. Run the following command to install the packages:
 
 ```bash
-# Using Yarn
 yarn install
 ```
 
