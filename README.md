@@ -13,6 +13,17 @@ SLIDER_API_TOKEN=slider-api-token
 ANNOUNCEMENT_API_TOKEN=announcement-api-token
 ```
 
+## Step 2: Install the packages:
+
+Open a _new_ terminal from the _root_ of your React Native project. Run the following command to install the packages:
+
+```bash
+# Using Yarn
+yarn android
+```
+
+Note: The project was developed using Yarn, if you use npm be aware of this.
+
 ## Step 2: Start the Application
 
 Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
