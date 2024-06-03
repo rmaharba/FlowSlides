@@ -24,7 +24,7 @@ yarn android
 
 Note: The project was developed using Yarn, if you use npm be aware of this.
 
-## Step 2: Start the Application
+## Step 3: Start the Application
 
 Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
