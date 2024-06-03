@@ -1,7 +1,3 @@
-
-https://github.com/rmaharba/FlowSlides/assets/32307933/ee138768-bd77-4ff3-bcb0-eabd2f43bd79
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
