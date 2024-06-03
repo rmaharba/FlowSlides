@@ -37,10 +37,6 @@ npm run ios
 yarn ios
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-# If everything works correctly, you should see an application like this:
+### If everything works correctly, you should see an application like this:
 
 https://github.com/rmaharba/FlowSlides/assets/32307933/2f13656f-710f-4940-a27a-d270492b1c49
