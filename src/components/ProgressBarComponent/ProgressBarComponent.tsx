@@ -52,6 +52,7 @@ export const ProgressBarComponent = ({
   };
 
   useEffect(() => {
+    setBarProgress(initialProgressState);
     updateProgress();
     return () => {
       clearInterval(intervalIdRef.current);
