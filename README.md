@@ -4,7 +4,7 @@
 
 ## Step 1: Add the envoriment variables:
 
-In the project the is a .env.example, you can use this file to create a .env. 
+In the project there is a .env.example, you can use this file to create a .env. 
 Within that .env you're gonna set the corresponding api token for each variable.
 
 ```
