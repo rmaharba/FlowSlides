@@ -2,7 +2,7 @@
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Add the envoriment variables:
+## Step 1: Add the environment variables:
 
 In the project there is a .env.example, you can use this file to create a .env. 
 Within that .env you're gonna set the corresponding api token for each variable.
